@@ -1,6 +1,6 @@
 # Putain de tables rondes !
 
-<img height="right" align="left" src="https://raw2.github.com/putaindecode/tables-rondes/master/resources/beer.jpg">
+<img height="200" align="right" src="https://raw2.github.com/putaindecode/tables-rondes/master/resources/beer.jpg">
 
 Régulièrement, on se produit un peu partout en France afin d'évangéliser je ne sais quoi. Faut dire qu'on finit tout le temps bourrés donc bon.
 
