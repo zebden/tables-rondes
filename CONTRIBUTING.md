@@ -1,5 +1,11 @@
 # Comment contribuer ?
 
+## Proposer un thème
+
+Créer une issue et nommez l'issue [Thème] :votre-sujet (quitte à changer le sujet par la suite).
+
+## Créer une table ronde
+
 Déjà, en faisant une table ronde hein :D
 
 Plus sérieusement, voici la procédure :
